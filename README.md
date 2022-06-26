@@ -1,7 +1,6 @@
 
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=14&lines=hi+im+vandy+;check+out+my+repositories)](https://git.io/typing-svg)
-
 im currently a student studying at [sanskriti school](http://sanskritischool.edu.in). 
 
 visit my [website](https://vandy.one)
